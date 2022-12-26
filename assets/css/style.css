@@ -213,7 +213,8 @@ html {
 }
 
 #content .content-section {
-    width: 100%;
+    width: 800px;
+    min-width: 100%;
     padding: 64px 0 112px;
     padding-left: 16px;
     padding-right: 16px;
